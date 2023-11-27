@@ -1,6 +1,6 @@
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,githubactions,kubernetes,mysql,postgres,nginx)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres,nginx,githubactions)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,nestjs,ruby,rails,)](https://skillicons.dev) <br>
 ## Summaries
 [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
