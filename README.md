@@ -4,9 +4,11 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=false&icon_color=58a6ff&title_color=58a6ff&custom_title=📊%20GitHub%20Activity%20(Past%20365%20Days))
+![Profile Summary Card](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true&card_width=495&fire=58a6ff)
+
+![Productive Time](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </td>
 <td width="50%" align="center" valign="top">
