@@ -4,9 +4,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=📈%20This%20Year's%20Journey)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=false&icon_color=58a6ff&title_color=58a6ff&custom_title=📊%20GitHub%20Activity%20(Past%20365%20Days))
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true&card_width=495&fire=58a6ff)
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,go,nodejs,nestjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,elasticsearch,grafana,sentry)](https://skillicons.dev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyForest&layout=compact&theme=github_dark&langs_count=8&custom_title=💬%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyForest&layout=compact&theme=github_dark&langs_count=8&hide_border=false&title_color=58a6ff&custom_title=💬%20Most%20Used%20Languages)
 
 </td>
 </tr>
