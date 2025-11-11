@@ -1,11 +1,9 @@
-# MoneyForest
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+💻;Cloud+%26+DevOps+Engineer+☁️;Always+Learning+New+Tech+🚀&font=Fira%20Code&width=500&height=45&color=58a6ff&size=22&pause=1000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Site+Reliability+Engineer+🛠️&font=Fira%20Code&width=500&height=45&color=58a6ff&size=22&pause=1000)
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-## 🎁 GitHub Wrapped
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=📈%20This%20Year's%20Journey)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true)
@@ -13,7 +11,6 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-## 💻 Skills & Languages
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nginx,githubactions,js,ts,react,redux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,ruby,rails)](https://skillicons.dev)
