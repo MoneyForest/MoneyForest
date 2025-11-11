@@ -19,6 +19,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyForest&layout=compact&theme=github_dark&langs_count=8&custom_title=💬%20Languages)
 
+[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </td>
 </tr>
 </table>
