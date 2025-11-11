@@ -1,18 +1,5 @@
-<table>
-<tr>
-<td width="50%">
-
 # 🚀 Welcome to MoneyForest's GitHub!
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+💻;Cloud+%26+DevOps+Engineer+☁️;Always+Learning+New+Tech+🚀&font=Fira%20Code&width=500&height=45&color=58a6ff&size=22&pause=1000)
-
-</td>
-<td width="50%">
-
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -38,3 +25,6 @@
 
 ## 🏆 Achievements
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MoneyForest&theme=darkhub&column=8&no-frame=true&no-bg=true)
+
+## 📊 Summary Cards
+[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
