@@ -11,9 +11,10 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nginx,githubactions,js,ts,react,redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres,terraform,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,githubactions,js,ts,react,redux,nextjs,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,ruby,rails,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,elasticsearch,grafana,redis,sentry)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyForest&layout=compact&theme=github_dark&langs_count=8&custom_title=💬%20Languages)
 
