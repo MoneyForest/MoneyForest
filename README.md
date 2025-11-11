@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ## 🎁 GitHub Wrapped 2024
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=📈%20This%20Year's%20Journey)
@@ -11,7 +11,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ## 💻 Skills & Languages
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres,nginx,githubactions)](https://skillicons.dev)
