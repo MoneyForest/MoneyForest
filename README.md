@@ -8,8 +8,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true&card_width=495&fire=58a6ff)
 
-![Productive Time](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-
 </td>
 <td width="50%" align="center" valign="top">
 
