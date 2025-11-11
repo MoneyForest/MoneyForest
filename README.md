@@ -43,4 +43,4 @@
 </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoneyForest&theme=github-compact&custom_title=🌊%20Contribution%20Activity&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoneyForest&theme=github-compact&custom_title=🌊%20Contribution%20Activity&hide_border=true&days=500&height=200&area=true&point=false&line=2)
