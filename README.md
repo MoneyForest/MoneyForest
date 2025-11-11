@@ -5,7 +5,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-## 🎁 GitHub Wrapped 2024
+## 🎁 GitHub Wrapped
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoneyForest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=📈%20This%20Year's%20Journey)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoneyForest&theme=github-dark-blue&hide_border=true)
@@ -14,12 +14,11 @@
 <td width="50%" align="center" valign="top">
 
 ## 💻 Skills & Languages
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres,nginx,githubactions)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,go,nodejs,nestjs,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,githubactions,js,ts,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,ruby,rails)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyForest&layout=compact&theme=github_dark&langs_count=8&custom_title=💬%20Languages)
-
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </td>
 </tr>
