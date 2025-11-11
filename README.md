@@ -23,24 +23,10 @@
 </tr>
 </table>
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MoneyForest&theme=darkhub&column=7&no-frame=true&no-bg=true)
 
-<table>
-<tr>
-<td width="50%">
+## 📊 Activity Summary
+[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</td>
-<td width="50%">
-
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MoneyForest/MoneyForest/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</td>
-</tr>
-</table>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoneyForest&theme=github-compact&custom_title=🌊%20Contribution%20Activity&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoneyForest&theme=github-compact&custom_title=🌊%20Contribution%20Activity&hide_border=true&days=500&height=200&area=true&point=false&line=2)
