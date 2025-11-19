@@ -1,4 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Site+Reliability+Engineer+🛠️&font=Fira%20Code&width=500&height=45&color=58a6ff&size=22&pause=1000)
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,cloudflare,terraform,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,nginx,mysql,postgres,dynamodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,go,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,elasticsearch,grafana,sentry)](https://skillicons.dev)
 
 ## 📊 Profile Summary
 
@@ -30,10 +35,3 @@
 </td>
 </tr>
 </table>
-
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,cloudflare,terraform,kubernetes,linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,nginx,mysql,postgres,dynamodb,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,go,nodejs,nestjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,elasticsearch,grafana,sentry)](https://skillicons.dev)
